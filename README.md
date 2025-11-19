@@ -104,9 +104,11 @@ Resgata recompensas
 
 # 👤 Autor
 
-João Paulo Peres da Silva
-Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas
-Descomplica Faculdade Digital – 2025
+- João Paulo Peres da Silva
+
+- Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas
+
+- Descomplica Faculdade Digital – 2025
 
 💬 Contato
 
