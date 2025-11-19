@@ -29,9 +29,5 @@ Promover a conscientização ambiental e incentivar o descarte correto de resíd
 - **HTML5** – estrutura da aplicação  
 - **CSS3** – estilização e responsividade  
 - **JavaScript** – lógica e interação com o usuário  
-- **LocalStorage** – armazenamento dos dados no navegador  
-
----
-
-## 📂 Estrutura de Pastas
+- **LocalStorage** – armazenamento dos dados no navegador
 
