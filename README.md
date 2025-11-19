@@ -45,12 +45,11 @@ Promover a conscientização ambiental e incentivar o descarte correto de resíd
 
 ## 📂 Estrutura de Pastas
 
-/
-├── index.html # Página Inicial
-├── cadastro.html # Tela de identificação
-├── dashboard.html # Tela principal com as funcionalidades
-├── style.css # Estilos da aplicação
-└── script.js # Lógica e funcionalidades
+- index.html # Página Inicial
+- cadastro.html # Tela de identificação
+- dashboard.html # Tela principal com as funcionalidades
+- style.css # Estilos da aplicação
+- script.js # Lógica e funcionalidades
 
 
 ---
