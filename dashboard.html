@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Dashboard – ECOTROCA</title>
+  </head>
+  <body>
+    <header class="Menu">
+      <h1>♻️ ECOTROCA</h1>
+    </header>
+
+    <main>
+      <section id="boasVindas">
+        <h2>Olá, <span id="nomeUsuario">Usuário</span>!</h2>
+        <p>
+          Você possui
+          <strong><span id="pontos">0</span> pontos</strong> acumulados.
+        </p>
+      </section>
+
+      <section id="registro">
+        <h3>Registrar Entrega de Resíduo</h3>
+        <form id="formEntrega">
+          <label for="tipo">Tipo de resíduo:</label>
+          <select id="tipo" required>
+            <option value="">Selecione</option>
+            <option value="plastico">Plástico</option>
+            <option value="papel">Papel</option>
+            <option value="vidro">Vidro</option>
+            <option value="metal">Metal</option>
+          </select>
+
+          <label for="quantidade">Quantidade (em kg):</label>
+          <input type="number" id="quantidade" min="0.1" step="0.1" required />
+
+          <input type="submit" value="Registrar entrega" class="TelaCadastro" />
+        </form>
+      </section>
+
+      <h2>Histórico de Entregas</h2>
+      <table id="tabelaHistorico">
+        <thead>
+          <tr>
+            <th>Data</th>
+            <th>Tipo</th>
+            <th>Quantidade (kg)</th>
+            <th>Pontos</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Entradas serão adicionadas aqui via JavaScript -->
+        </tbody>
+      </table>
+
+      <section id="catalogoRecompensas">
+        <h2>🎁 Catálogo de Recompensas</h2>
+        <div id="listaRecompensas" class="recompensas-container">
+          <!-- Recompensas vão aparecer aqui via JS -->
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
