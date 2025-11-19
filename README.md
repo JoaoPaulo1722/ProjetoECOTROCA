@@ -1,4 +1,5 @@
-# ♻️ ECOTROCA  
+# ♻️ ECOTROCA
+
 ### Plataforma de Incentivo à Reciclagem por Pontos
 
 O **ECOTROCA** é um projeto de extensão desenvolvido para incentivar práticas sustentáveis por meio da troca de resíduos recicláveis por pontos resgatáveis em recompensas.  
@@ -18,12 +19,12 @@ Acesse diretamente pelo navegador, sem necessidade de instalação.
 
 ## 🚀 Funcionalidades
 
-- Cadastro do usuário (com nome ou anonimamente)  
-- Registro de entrega de resíduos  
-- Cálculo automático de pontos por tipo de material  
-- Histórico completo de entregas  
-- Catálogo de recompensas destravado conforme pontuação  
-- Armazenamento local via `localStorage`  
+- Cadastro do usuário (com nome ou anonimamente)
+- Registro de entrega de resíduos
+- Cálculo automático de pontos por tipo de material
+- Histórico completo de entregas
+- Catálogo de recompensas destravado conforme pontuação
+- Armazenamento local via `localStorage`
 - Interface simples, bonita e responsiva
 
 ---
@@ -36,10 +37,10 @@ Promover a conscientização ambiental e incentivar o descarte correto de resíd
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** – estrutura da aplicação  
-- **CSS3** – estilização e responsividade  
-- **JavaScript (ES6)** – lógica e manipulação de dados  
-- **LocalStorage** – persistência dos dados no navegador  
+- **HTML5** – estrutura da aplicação
+- **CSS3** – estilização e responsividade
+- **JavaScript (ES6)** – lógica e manipulação de dados
+- **LocalStorage** – persistência dos dados no navegador
 
 ---
 
@@ -51,20 +52,23 @@ Promover a conscientização ambiental e incentivar o descarte correto de resíd
 - style.css # Estilos da aplicação
 - script.js # Lógica e funcionalidades
 
-
 ---
 
 ## 📌 Como Executar Localmente
 
 1. Baixe ou clone o repositório:
+
    ```bash
    git clone https://github.com/joaopaulo1722/ProjetoECOTROCA.git
+
+   ```
 
 2. Abra o arquivo index.html no navegador.
 
 3. O sistema estará funcionando.
 
 # 🔍 Funcionamento do Sistema
+
 # 🧾 Registro de entregas
 
 O usuário informa:
@@ -112,4 +116,3 @@ Resgata recompensas
 💬 Contato
 
 📧 Email: peresjoao244@gmail.com
-
