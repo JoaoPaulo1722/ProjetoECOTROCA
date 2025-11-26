@@ -1,4 +1,5 @@
-# ♻️ ECOTROCA  
+# ♻️ ECOTROCA
+
 ### Plataforma de Incentivo à Reciclagem por Pontos
 
 O **ECOTROCA** é um projeto de extensão desenvolvido para incentivar práticas sustentáveis por meio da troca de resíduos recicláveis por pontos resgatáveis em recompensas.  
@@ -18,12 +19,12 @@ Acesse diretamente pelo navegador, sem necessidade de instalação.
 
 ## 🚀 Funcionalidades
 
-- Cadastro do usuário (com nome ou anonimamente)  
-- Registro de entrega de resíduos  
-- Cálculo automático de pontos por tipo de material  
-- Histórico completo de entregas  
-- Catálogo de recompensas destravado conforme pontuação  
-- Armazenamento local via `localStorage`  
+- Cadastro do usuário (com nome ou anonimamente)
+- Registro de entrega de resíduos
+- Cálculo automático de pontos por tipo de material
+- Histórico completo de entregas
+- Catálogo de recompensas destravado conforme pontuação
+- Armazenamento local via `localStorage`
 - Interface simples, bonita e responsiva
 
 ---
@@ -36,36 +37,39 @@ Promover a conscientização ambiental e incentivar o descarte correto de resíd
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** – estrutura da aplicação  
-- **CSS3** – estilização e responsividade  
-- **JavaScript (ES6)** – lógica e manipulação de dados  
-- **LocalStorage** – persistência dos dados no navegador  
+- **HTML5** – estrutura da aplicação
+- **CSS3** – estilização e responsividade
+- **JavaScript (ES6)** – lógica e manipulação de dados
+- **LocalStorage** – persistência dos dados no navegador
 
 ---
 
 ## 📂 Estrutura de Pastas
 
-- index.html # Página Inicial
-- cadastro.html # Tela de identificação
-- dashboard.html # Tela principal com as funcionalidades
-- style.css # Estilos da aplicação
-- script.js # Lógica e funcionalidades
+```
+/
+├── index.html        # Página inicial
+├── cadastro.html     # Tela de identificação
+├── dashboard.html    # Tela principal com funcionalidades
+├── style.css         # Estilos da aplicação
+└── script.js         # Lógica e funcionalidades
 
+```
+
+📌 Como Executar Localmente
+
+Baixe ou clone o repositório:
+
+git clone https://github.com/joaopaulo1722/ProjetoECOTROCA.git
+
+Abra o arquivo index.html no navegador.
+
+O sistema estará funcionando.
 
 ---
 
-## 📌 Como Executar Localmente
-
-1. Baixe ou clone o repositório:
-   ```bash
-   git clone https://github.com/joaopaulo1722/ProjetoECOTROCA.git
-
-2. Abra o arquivo index.html no navegador.
-
-3. O sistema estará funcionando.
-
-# 🔍 Funcionamento do Sistema
-# 🧾 Registro de entregas
+🔍 Funcionamento do Sistema
+🧾 Registro de entregas
 
 O usuário informa:
 
@@ -73,9 +77,11 @@ Tipo de resíduo (plástico, papel, vidro, metal)
 
 Quantidade em kg
 
-A pontuação é calculada automaticamente.
+A pontuação é calculada automaticamente com base no tipo e no peso informado.
 
-# 🎁 Resgate de recompensas
+---
+
+🎁 Resgate de recompensas
 
 O usuário pode trocar pontos por:
 
@@ -85,9 +91,11 @@ Caneca sustentável
 
 Ecobag reutilizável
 
-Os botões são habilitados dinamicamente conforme o saldo de pontos.
+Os botões são habilitados dinamicamente conforme o saldo de pontos disponível.
 
-# 🧭 Fluxo de Uso
+---
+
+🧭 Fluxo de Uso
 
 Usuário acessa a plataforma
 
@@ -97,19 +105,16 @@ Registra resíduos recicláveis
 
 Visualiza seus pontos acumulados
 
-Acompanha histórico
+Acompanha o histórico
 
 Resgata recompensas
 
-# 👤 Autor
+---
 
-- João Paulo Peres da Silva
+👤 Autor
 
-- Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas
+João Paulo Peres da Silva
+Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas
+Descomplica Faculdade Digital – 2025
 
-- Descomplica Faculdade Digital – 2025
-
-💬 Contato
-
-📧 Email: peresjoao244@gmail.com
-
+📧 Contato: peresjoao244@gmail.com
