@@ -68,7 +68,7 @@ O sistema estará funcionando.
 
 ---
 
-## 🔍 Funcionamento do Sistema -
+## 🔍 Funcionamento do Sistema
 
 🧾 Registro de entregas
 
