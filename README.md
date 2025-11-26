@@ -68,7 +68,8 @@ O sistema estará funcionando.
 
 ---
 
-🔍 Funcionamento do Sistema
+## 🔍 Funcionamento do Sistema -
+
 🧾 Registro de entregas
 
 O usuário informa:
@@ -81,7 +82,7 @@ A pontuação é calculada automaticamente com base no tipo e no peso informado.
 
 ---
 
-🎁 Resgate de recompensas
+## 🎁 Resgate de recompensas
 
 O usuário pode trocar pontos por:
 
@@ -95,7 +96,7 @@ Os botões são habilitados dinamicamente conforme o saldo de pontos disponível
 
 ---
 
-🧭 Fluxo de Uso
+## 🧭 Fluxo de Uso
 
 Usuário acessa a plataforma
 
@@ -111,7 +112,7 @@ Resgata recompensas
 
 ---
 
-👤 Autor
+## 👤 Autor
 
 João Paulo Peres da Silva
 Projeto desenvolvido para o curso de Análise e Desenvolvimento de Sistemas
